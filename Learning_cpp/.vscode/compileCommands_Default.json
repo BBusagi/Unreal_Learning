@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Learning_cpp\\Source\\Learning_cpp\\Learning_cpp.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Learning_cpp\\.vscode\\compileCommands_Default\\Learning_cpp.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Learning_cpp\\Source\\Learning_cpp\\Learning_cpp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Learning_cpp\\.vscode\\compileCommands_Default\\Learning_cpp.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Learning_cpp\\Source\\Learning_cpp\\Learning_cpp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Learning_cpp\\.vscode\\compileCommands_Default\\Learning_cpp.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	}
+]
