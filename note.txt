@@ -1,1 +1,5 @@
 p39
+p45 UPROPERTY(EditAnywhere)
+p46 live code only effect editor, when lost data build task 
+p50 frame  frame rate  tick
+p51 scope

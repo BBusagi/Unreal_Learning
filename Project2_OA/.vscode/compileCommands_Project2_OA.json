@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Source\\Project2_OA\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Project2_OA\\.vscode\\compileCommands_Project2_OA\\Project2_OA.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Source\\Project2_OA\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Project2_OA\\.vscode\\compileCommands_Project2_OA\\Project2_OA.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Source\\Project2_OA\\Project2_OA.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Project2_OA\\.vscode\\compileCommands_Project2_OA\\Project2_OA.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Source\\Project2_OA\\Project2_OA.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Project2_OA\\.vscode\\compileCommands_Project2_OA\\Project2_OA.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Source\\Project2_OA\\Project2_OA.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitProject\\Unreal_learning\\Project2_OA\\.vscode\\compileCommands_Project2_OA\\Project2_OA.1.rsp"
+		],
+		"directory": "D:\\UnrealEditor\\UE_5.3\\Engine\\Source"
+	}
+]
