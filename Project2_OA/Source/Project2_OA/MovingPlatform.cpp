@@ -15,10 +15,8 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-
-	myVector = FVector(-14090, -2710, 4055);
+	startLoc = GetActorLocation();
 	reSize = FVector(2, 2, 0.1);
-
 	SetActorScale3D(reSize);
 }
 
@@ -27,9 +25,17 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	FVector localVector = myVector;
-	myVector.Y++;
+	FVector CurrentLoc = GetActorLocation();
 
-	SetActorLocation(localVector);
+	CurrentLoc = CurrentLoc + velocityR * DeltaTime;
+	SetActorLocation(CurrentLoc);
+
+	float distR = FVector::Dist(startLoc,CurrentLoc);
+
+	if(distR > move)
+	{
+		velocityR = -velocityR;
+		startLoc = CurrentLoc;
+	}
 }
 

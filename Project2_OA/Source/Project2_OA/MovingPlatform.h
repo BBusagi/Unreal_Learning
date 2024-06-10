@@ -12,24 +12,22 @@ class PROJECT2_OA_API AMovingPlatform : public AActor
 	GENERATED_BODY()
 	
 public:	
-	// Sets default values for this actor's properties
 	AMovingPlatform();
 
 protected:
-	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 public:	
-	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	UPROPERTY(EditAnywhere)
-	FVector myVector = FVector(0, 0, 0);
+	UPROPERTY(EditAnywhere, Category = "Moving")
+	FVector velocityR = FVector(100, 0, 0);
 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, Category = "Moving")
+	float move = 100; 
+
+	UPROPERTY(EditAnywhere, Category = "Moving")
 	FVector reSize = FVector(0, 0, 0);
 
-	UPROPERTY(EditAnywhere)
-	float myX;
-
+	FVector startLoc;
 };
