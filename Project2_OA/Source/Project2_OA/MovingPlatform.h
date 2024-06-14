@@ -27,7 +27,7 @@ public:
 	float move = 100; 
 
 	UPROPERTY(EditAnywhere, Category = "Moving")
-	FVector reSize = FVector(0, 0, 0);
+	FVector reSize = FVector(2, 2, 0.1);
 
 	FVector startLoc;
 };

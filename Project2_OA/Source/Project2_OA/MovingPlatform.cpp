@@ -34,8 +34,10 @@ void AMovingPlatform::Tick(float DeltaTime)
 
 	if(distR > move)
 	{
+		FVector moveDir = velocityR.GetSafeNormal();
+		startLoc = startLoc + moveDir * move;
+		SetActorLocation(startLoc);
 		velocityR = -velocityR;
-		startLoc = CurrentLoc;
 	}
 }
 
