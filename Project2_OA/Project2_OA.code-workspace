@@ -6,12 +6,19 @@
 		},
 		{
 			"name": "UE5",
-			"path": "D:\\UnrealEditor\\UE_5.3"
+			"path": "D:\\Epic Games\\UE_5.3"
 		}
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
-		"npm.autoDetect": "off"
+		"npm.autoDetect": "off",
+		"files.associations": {
+			"__bit_reference": "cpp",
+			"deque": "cpp",
+			"future": "cpp",
+			"ios": "cpp",
+			"string": "cpp"
+		}
 	},
 	"extensions": {
 		"recommendations": [
@@ -30,13 +37,13 @@
 					"Project2_OA",
 					"Win64",
 					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -47,7 +54,7 @@
 					"Project2_OA",
 					"Win64",
 					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -56,7 +63,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -67,13 +74,13 @@
 					"Project2_OA",
 					"Win64",
 					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -84,13 +91,13 @@
 					"Project2_OA",
 					"Win64",
 					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -101,7 +108,7 @@
 					"Project2_OA",
 					"Win64",
 					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -110,7 +117,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -121,13 +128,13 @@
 					"Project2_OA",
 					"Win64",
 					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -138,13 +145,13 @@
 					"Project2_OA",
 					"Win64",
 					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -155,7 +162,7 @@
 					"Project2_OA",
 					"Win64",
 					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -164,7 +171,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -175,13 +182,13 @@
 					"Project2_OA",
 					"Win64",
 					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -192,13 +199,13 @@
 					"Project2_OA",
 					"Win64",
 					"Test",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -209,7 +216,7 @@
 					"Project2_OA",
 					"Win64",
 					"Test",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -218,7 +225,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -229,13 +236,13 @@
 					"Project2_OA",
 					"Win64",
 					"Test",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -246,13 +253,13 @@
 					"Project2_OA",
 					"Win64",
 					"Shipping",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -263,7 +270,7 @@
 					"Project2_OA",
 					"Win64",
 					"Shipping",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -272,7 +279,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -283,753 +290,13 @@
 					"Project2_OA",
 					"Win64",
 					"Shipping",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Debug Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Debug Cook+Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Debug",
-					"-ServerConfig=Debug",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Debug Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Debug Cook",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Debug",
-					"-ServerConfig=Debug",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Debug Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Debug Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Debug",
-					"-ServerConfig=Debug",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-DeploySoToDevice",
-					"-SkipCook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OA Android Debug Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Debug Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"Project2_OA Android Debug Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Debug Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android DebugGame Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android DebugGame Cook+Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=DebugGame",
-					"-ServerConfig=DebugGame",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android DebugGame Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android DebugGame Cook",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=DebugGame",
-					"-ServerConfig=DebugGame",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android DebugGame Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android DebugGame Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=DebugGame",
-					"-ServerConfig=DebugGame",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-DeploySoToDevice",
-					"-SkipCook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OA Android DebugGame Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android DebugGame Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"Project2_OA Android DebugGame Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android DebugGame Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Development Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Development Cook+Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Development",
-					"-ServerConfig=Development",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Development Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Development Cook",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Development",
-					"-ServerConfig=Development",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Development Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Development Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Development",
-					"-ServerConfig=Development",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-DeploySoToDevice",
-					"-SkipCook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OA Android Development Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Development Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"Project2_OA Android Development Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Development Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Test Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Test",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Test Cook+Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Test",
-					"-ServerConfig=Test",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Test Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Test Cook",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Test",
-					"-ServerConfig=Test",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Test Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Test Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Test",
-					"-ServerConfig=Test",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-DeploySoToDevice",
-					"-SkipCook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OA Android Test Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Test Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Test",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"Project2_OA Android Test Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Test Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Test",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Shipping Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Shipping",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Shipping Cook+Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Shipping",
-					"-ServerConfig=Shipping",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Shipping Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Shipping Cook",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Shipping",
-					"-ServerConfig=Shipping",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-Cook"
-				],
-				"dependsOn": [
-					"Project2_OAEditor Win64 Development Build",
-					"Project2_OA Android Shipping Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Shipping Deploy",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
-				"args": [
-					"BuildCookRun",
-					"-ScriptsForProject=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-Project=D:/GitProject/Unreal_learning/Project2_OA/Project2_OA.uproject",
-					"-noP4",
-					"-ClientConfig=Shipping",
-					"-ServerConfig=Shipping",
-					"-NoCompileEditor",
-					"-utf8output",
-					"-Platform=Android",
-					"-TargetPlatform=Android",
-					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
-					"-Compressed",
-					"-IterativeCooking",
-					"-IterativeDeploy",
-					"-DeploySoToDevice",
-					"-SkipCook",
-					"-Stage",
-					"-Deploy"
-				],
-				"dependsOn": [
-					"Project2_OA Android Shipping Build"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Shipping Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Shipping",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"Project2_OA Android Shipping Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
-				}
-			},
-			{
-				"label": "Project2_OA Android Shipping Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"Project2_OA",
-					"Android",
-					"Shipping",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1040,13 +307,13 @@
 					"Project2_OAEditor",
 					"Win64",
 					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1057,7 +324,7 @@
 					"Project2_OAEditor",
 					"Win64",
 					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -1066,7 +333,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1077,13 +344,13 @@
 					"Project2_OAEditor",
 					"Win64",
 					"Debug",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1094,13 +361,13 @@
 					"Project2_OAEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1111,7 +378,7 @@
 					"Project2_OAEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -1120,7 +387,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1131,13 +398,13 @@
 					"Project2_OAEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1148,13 +415,13 @@
 					"Project2_OAEditor",
 					"Win64",
 					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1165,7 +432,7 @@
 					"Project2_OAEditor",
 					"Win64",
 					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -1174,7 +441,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1185,13 +452,13 @@
 					"Project2_OAEditor",
 					"Win64",
 					"Development",
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "D:\\UnrealEditor\\UE_5.3"
+					"cwd": "D:\\Epic Games\\UE_5.3"
 				}
 			}
 		]
@@ -1202,132 +469,132 @@
 			{
 				"name": "Launch Project2_OA (Debug)",
 				"request": "launch",
-				"program": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "Project2_OA Win64 Debug Build",
 				"args": [
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OA (DebugGame)",
 				"request": "launch",
-				"program": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "Project2_OA Win64 DebugGame Build",
 				"args": [
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OA (Development)",
 				"request": "launch",
-				"program": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "Project2_OA Win64 Development Build",
 				"args": [
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OA (Test)",
 				"request": "launch",
-				"program": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "Project2_OA Win64 Test Build",
 				"args": [
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OA (Shipping)",
 				"request": "launch",
-				"program": "D:\\GitProject\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "Project2_OA Win64 Shipping Build",
 				"args": [
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OAEditor (Debug)",
 				"request": "launch",
-				"program": "D:\\UnrealEditor\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+				"program": "D:\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "Project2_OAEditor Win64 Debug Build",
 				"args": [
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject"
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject"
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OAEditor (DebugGame)",
 				"request": "launch",
-				"program": "D:\\UnrealEditor\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+				"program": "D:\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "Project2_OAEditor Win64 DebugGame Build",
 				"args": [
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject"
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject"
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Project2_OAEditor (Development)",
 				"request": "launch",
-				"program": "D:\\UnrealEditor\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+				"program": "D:\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "Project2_OAEditor Win64 Development Build",
 				"args": [
-					"D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject"
+					"E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject"
 				],
-				"cwd": "D:\\UnrealEditor\\UE_5.3",
+				"cwd": "D:\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "D:\\UnrealEditor\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "D:\\UnrealEditor\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.3"
 				}
 			},
 			{
@@ -1335,18 +602,18 @@
 				"type": "coreclr",
 				"request": "launch",
 				"preLaunchTask": "UnrealBuildTool Win64 Development Build",
-				"program": "D:\\UnrealEditor\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+				"program": "D:\\Epic Games\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=D:\\GitProject\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
+					"-project=E:\\PROJECTS\\Git\\Unreal_learning\\Project2_OA\\Project2_OA.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
 				],
 				"console": "externalTerminal",
 				"stopAtEntry": false,
-				"cwd": "D:\\UnrealEditor\\UE_5.3"
+				"cwd": "D:\\Epic Games\\UE_5.3"
 			}
 		]
 	}

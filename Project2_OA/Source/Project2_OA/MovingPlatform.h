@@ -21,13 +21,17 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere, Category = "Moving")
-	FVector velocityR = FVector(100, 0, 0);
+	int movingVelo = 1;
 
 	UPROPERTY(EditAnywhere, Category = "Moving")
-	float move = 100; 
+	FVector movingVect = FVector(0, 0, 0);
 
 	UPROPERTY(EditAnywhere, Category = "Moving")
-	FVector reSize = FVector(2, 2, 0.1);
+	float movingDis = 100; 
+
+	UPROPERTY(EditAnywhere, Category = "Moving")
+	FVector reSize = FVector::ZeroVector;
 
 	FVector startLoc;
+	FVector velocityR;
 };

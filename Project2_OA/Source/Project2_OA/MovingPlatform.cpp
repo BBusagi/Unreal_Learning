@@ -16,8 +16,12 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 	startLoc = GetActorLocation();
-	reSize = FVector(2, 2, 0.1);
-	SetActorScale3D(reSize);
+	velocityR = movingVelo * 100 * movingVect;
+	UE_LOG(LogTemp,Display,TEXT("%f"), velocityR);
+	if (!reSize.IsZero()) 
+	{
+		SetActorScale3D(reSize);
+	}
 }
 
 // Called every frame
@@ -32,10 +36,10 @@ void AMovingPlatform::Tick(float DeltaTime)
 
 	float distR = FVector::Dist(startLoc,CurrentLoc);
 
-	if(distR > move)
+	if(distR > movingDis)
 	{
 		FVector moveDir = velocityR.GetSafeNormal();
-		startLoc = startLoc + moveDir * move;
+		startLoc = startLoc + moveDir * movingDis;
 		SetActorLocation(startLoc);
 		velocityR = -velocityR;
 	}
