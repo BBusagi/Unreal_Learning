@@ -20,6 +20,7 @@ protected:
 public:	
 	virtual void Tick(float DeltaTime) override;
 
+private:
 	UPROPERTY(EditAnywhere, Category = "Moving")
 	int movingVelo = 1;
 
@@ -34,4 +35,9 @@ public:
 
 	FVector startLoc;
 	FVector velocityR;
+
+	void MovePlateform(float DeltaTime);
+	void RotatePlateform(float DeltaTime);
+	bool shouldReturn() const;
+	float getDistMoved() const;
 };
