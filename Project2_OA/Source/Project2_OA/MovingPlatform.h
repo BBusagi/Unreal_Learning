@@ -33,6 +33,9 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Moving")
 	FVector reSize = FVector::ZeroVector;
 
+	UPROPERTY(EditAnywhere, Category = "Rotation")
+	FRotator rotationVelo;
+
 	FVector startLoc;
 	FVector velocityR;
 
