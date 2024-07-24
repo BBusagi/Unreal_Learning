@@ -3,3 +3,9 @@ Project1_Warehouse Wreckage
 Project2_Obastacle Assault
 Project3_Crypt Raider
 Project4_Toon Tanks
+
+GameMode - Default Pawn Class
+ |- Player - Skeletal Mesh
+
+Inheritance (is a) 实箭头
+Composition (has a) 虚箭头
