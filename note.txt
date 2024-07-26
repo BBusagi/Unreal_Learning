@@ -9,3 +9,13 @@ GameMode - Default Pawn Class
 
 Inheritance (is a) 实箭头
 Composition (has a) 虚箭头
+
+ctrl alt f11 全局键盘
+
+指针 解引用指针 获取地址
+float myfloat = 5
+float* yourfloat = &myfloat
+float floatvalue = *yourfloat
+
+Preprocessor -> Compiler -> Linker
+.inclucde(.cpp+.h) -> .obj  -> .exe
