@@ -1,0 +1,138 @@
+[
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Mover.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Mover.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CR.Build.cs",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CR.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CR.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRCharacter.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRCharacter.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRGameMode.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRGameMode.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRPlayerController.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRPlayerController.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRProjectile.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\Project3_CRProjectile.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\TP_PickUpComponent.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\Source\\Project3_CR\\TP_WeaponComponent.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\PROJECTS\\Git\\Unreal_learning\\Project3_CR\\.vscode\\compileCommands_Default\\Project3_CR.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
