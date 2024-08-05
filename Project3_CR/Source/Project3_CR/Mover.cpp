@@ -35,7 +35,7 @@ void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponent
 		FVector NewLoc = FMath::VInterpConstantTo(CurrentLoc, TargetLoc, DeltaTime, Speed);
 		GetOwner()->SetActorLocation(NewLoc);
 		
-		UE_LOG(LogTemp, Display, TEXT("Moving"));
+		//UE_LOG(LogTemp, Display, TEXT("Moving"));
 	}
 
 

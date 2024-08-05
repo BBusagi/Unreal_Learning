@@ -16,6 +16,8 @@ ctrl alt f11 全局键盘
 float myfloat = 5
 float* yourfloat = &myfloat
 float floatvalue = *yourfloat
+通过指针访问对象的成员
+（*） = ->
 
 Preprocessor -> Compiler -> Linker
 .inclucde(.cpp+.h) -> .obj  -> .exe
