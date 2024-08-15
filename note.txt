@@ -1,3 +1,7 @@
+外部资源
+Unreal Engine C++ Project Setup, From Scratch
+https://www.youtube.com/watch?v=94FvzO1HVzY
+
 TODO
 UE5 C++ Enhanced Input
 https://www.udemy.com/course/unrealcourse/learn/lecture/36010768#content
