@@ -15,6 +15,12 @@ class PROJECT3_CR_API UTrigger : public UBoxComponent
 {
 	GENERATED_BODY()
 
+public:
+	UTrigger();
+
 protected:
 	virtual void BeginPlay() override;
+
+public:
+	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 };
