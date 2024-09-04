@@ -19,33 +19,16 @@ void UTrigger::BeginPlay()
 void UTrigger::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction)
 {
     Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-
-    TArray<AActor *> Actors;
-    GetOverlappingActors(Actors);
-
-    // Method 1
-    // int32 index = 0;
-    // while (index < Actors.Num())
-    // {
-    //     FString ActorName = Actors[index]->GetActorNameOrLabel();
-    //     UE_LOG(LogTemp, Display, TEXT("Overlapping: %s"), *ActorName);
-    //     ++index;
-    // }
-
-    // Method 2
-    //  for (int i = 0; i < Actors.Num(); i++)
-    //  {
-    //      FString ActorName = Actors[i]->GetActorNameOrLabel();
-    //      UE_LOG(LogTemp, Display, TEXT("Overlapping: %s"), *ActorName);
-    //  }
-
-    for (AActor *Actor : Actors)
+    AActor* Actor = GetAcceptableActor();
+    if(Actor != nullptr)
     {
-        if (Actor->ActorHasTag(AcceptableActorTag))
-        {
-            UE_LOG(LogTemp, Display, TEXT("Unlock1"));
-        }
+        UE_LOG(LogTemp, Display, TEXT("Unlocking"));
     }
+    else
+    {
+        UE_LOG(LogTemp, Display, TEXT("Relocking"));
+    }
+
 }
 
 AActor *UTrigger::GetAcceptableActor() const
