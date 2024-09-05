@@ -21,6 +21,11 @@ void UMover::BeginPlay()
 	OriginLoc = GetOwner()->GetActorLocation();
 }
 
+void UMover::SetShouldMove(bool NewShouldMove)
+{
+	ShouldMove = NewShouldMove;
+}
+
 // Called every frame
 void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction)
 {
