@@ -4,19 +4,19 @@
 
 #include "CoreMinimal.h"
 #include "Components/BoxComponent.h"
-#include "Trigger.generated.h"
+#include "TriggerComponent.generated.h"
 
 /**
  *
  */
 
 UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
-class PROJECT3_CR_API UTrigger : public UBoxComponent
+class PROJECT3_CR_API UTriggerComponent : public UBoxComponent
 {
 	GENERATED_BODY()
 
 public:
-	UTrigger();
+	UTriggerComponent();
 
 protected:
 	virtual void BeginPlay() override;
@@ -24,9 +24,9 @@ protected:
 public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-private:
+public:
 	UPROPERTY(EditAnywhere)
 	FName AcceptableActorTag;
 
-	AActor* GetAcceptableActor() const;
+	
 };
