@@ -24,9 +24,9 @@ protected:
 public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-public:
+private:
 	UPROPERTY(EditAnywhere)
 	FName AcceptableActorTag;
 
-	
+	AActor* GetAcceptableActor() const;
 };
