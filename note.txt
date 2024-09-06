@@ -12,6 +12,8 @@ Project2_Obastacle Assault
 Project3_Crypt Raider
 Project4_Toon Tanks
 ---------------------------------------
+UPrimitiveComponent 
+---------------------------------------
 
 Unreal层级关系
 UWorld - ULevel
@@ -19,3 +21,5 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/E
 
 Bug： #include errors detected.
 >refresh vscode project
+Bug: paramtar not showing up
+>rename file to xxxComponent
