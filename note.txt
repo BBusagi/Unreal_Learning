@@ -13,6 +13,7 @@ Project3_Crypt Raider
 Project4_Toon Tanks
 ---------------------------------------
 UPrimitiveComponent 
+UStaticMeshComponent 
 ---------------------------------------
 
 Unreal层级关系
