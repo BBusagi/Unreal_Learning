@@ -51,7 +51,10 @@ AActor *UTriggerComponent::GetAcceptableActor() const
 
     for (AActor *Actor : Actors)
     {
-        if (Actor->ActorHasTag(AcceptableActorTag))
+        bool HasAcceptableActorTag = Actor->ActorHasTag(AcceptableActorTag);
+        bool IsGrabbed = Actor->ActorHasTag("Grabbed");
+
+        if (HasAcceptableActorTag && !IsGrabbed)
         {
             return Actor;
         }
