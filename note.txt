@@ -1,10 +1,12 @@
-外部资源
++ 外部资源
 Unreal Engine C++ Project Setup, From Scratch
 https://www.youtube.com/watch?v=94FvzO1HVzY
 
-TODO
 UE5 C++ Enhanced Input
 https://www.udemy.com/course/unrealcourse/learn/lecture/36010768#content
+
+Unreal层级关系： UWorld - ULevel
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UWorld?application_version=5.4
 ---------------------------------------
 Project0_Intro
 Project1_Warehouse Wreckage
@@ -12,15 +14,15 @@ Project2_Obastacle Assault
 Project3_Crypt Raider
 Project4_Toon Tanks
 ---------------------------------------
++ 核心组件
 UPrimitiveComponent 
 UStaticMeshComponent 
 ---------------------------------------
-
-Unreal层级关系
-UWorld - ULevel
-https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UWorld?application_version=5.4
-
++ BugLog
 Bug： #include errors detected.
 >refresh vscode project
 Bug: paramtar not showing up
 >rename file to xxxComponent
+---------------------------------------
++ NOTE
+postprocessvolume
