@@ -4,4 +4,13 @@ Bug： #include errors detected.
 Bug: paramtar not showing up
 >rename file to xxxComponent
 ---------------------------------------
-+ NOTE
++ NOTE VR
+gamemodel - vrspawn
+
+vr camera - look to hmd
+
+Event IMC_Default -> Events
+视角移动Snap Turn
+传送Teleport Trace，Start Teleport Trace，End（CleanUp） TryTeleport
+
+手部动画 ABP_MannequinsXR
